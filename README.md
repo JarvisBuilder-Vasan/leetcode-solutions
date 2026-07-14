@@ -2,22 +2,22 @@
 
 Welcome to my LeetCode solutions repository!
 
-This repository contains my accepted solutions to LeetCode problems as I improve my problem-solving skills and prepare for software engineering and AI roles.
+This repository contains my accepted Python solutions to LeetCode problems as I improve my problem-solving skills and strengthen my understanding of Data Structures and Algorithms.
 
 ---
 
 ## 🚀 About
 
-- 🧑‍💻 Language: Python
+- 🐍 Language: Python
 - 📚 Platform: LeetCode
-- 🎯 Goal: Strengthen Data Structures & Algorithms
-- 🔥 Consistently solving problems and improving every day
+- 🎯 Goal: Improve Problem Solving & Data Structures and Algorithms
+- 🔥 Solving problems consistently and learning every day
 
 ---
 
 ## 📂 Repository Structure
 
-```
+```text
 leetcode-solutions/
 │
 ├── Easy/
@@ -37,30 +37,45 @@ Each solution includes:
 
 ## 📈 Progress
 
-| Difficulty | Solved |
-|------------|--------|
-| Easy | 21 |
-| Medium | 4 |
-| Hard | 0 |
-| **Total** | **25** |
+- ✅ Total Solved: **25**
+- 🟢 Easy: **21**
+- 🟡 Medium: **4**
+- 🔴 Hard: **0**
 
-> This repository will continue to grow as I solve more LeetCode problems.
+---
+
+## 🔥 LeetCode Streak
+
+**Current Streak:** **15 Days** 🔥
+
+---
+
+## 💻 Languages
+
+- 🐍 Python
+
+---
+
+## 🌐 Connect With Me
+
+- 💻 GitHub: https://github.com/JarvisBuilder-Vasan
+- 🧩 LeetCode: https://leetcode.com/u/JarvisBuilder-Vasan/
 
 ---
 
 ## 🎯 Current Focus
 
-- Python
 - Data Structures & Algorithms
+- Python Programming
 - Problem Solving
-- Preparing for Technical Interviews
+- Technical Interview Preparation
 
 ---
 
 ## 📌 Notes
 
-These solutions represent my learning journey. Some earlier solutions use straightforward approaches, while later solutions become more optimized as I continue learning.
+This repository represents my learning journey on LeetCode. I upload my accepted solutions as I continue improving my coding skills. Earlier solutions may use straightforward approaches, while newer solutions reflect the concepts and optimizations I learn over time.
 
 ---
 
-⭐ Thanks for visiting my repository!
+⭐ **Thank you for visiting my repository!**
