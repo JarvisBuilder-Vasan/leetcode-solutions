@@ -1,6 +1,6 @@
 # LeetCode 9 - Palindrome Number
 # Difficulty: Easy
-# Approach: Reverse Number
+# Approach: Reverse the Number
 # Time Complexity: O(log n)
 # Space Complexity: O(1)
 
