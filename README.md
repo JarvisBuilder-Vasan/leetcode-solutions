@@ -10,8 +10,8 @@ This repository contains my accepted Python solutions to LeetCode problems as I 
 
 - 🐍 Language: Python
 - 📚 Platform: LeetCode
-- 🎯 Goal: Improve Problem Solving & Data Structures and Algorithms
-- 🔥 Solving problems consistently and learning every day
+- 🎯 Goal: Strengthen Data Structures & Algorithms
+- 🔥 Solving problems consistently every day
 
 ---
 
@@ -25,7 +25,7 @@ leetcode-solutions/
 └── README.md
 ```
 
-Each solution includes:
+Each solution contains:
 - Problem Number
 - Problem Name
 - Difficulty
@@ -35,18 +35,17 @@ Each solution includes:
 
 ---
 
-## 📈 Progress
+## 📊 LeetCode Statistics
 
-- ✅ Total Solved: **25**
-- 🟢 Easy: **21**
-- 🟡 Medium: **4**
-- 🔴 Hard: **0**
-
----
-
-## 🔥 LeetCode Streak
-
-**Current Streak:** **15 Days** 🔥
+| Category | Count |
+|----------|------:|
+| ✅ Total Solved | **25** |
+| 🟢 Easy | **21** |
+| 🟡 Medium | **4** |
+| 🔴 Hard | **0** |
+| 🚀 Total Submissions | **52** |
+| 🔥 Current Streak | **15 Days** |
+| 🏆 Max Streak | **15 Days** |
 
 ---
 
@@ -56,10 +55,10 @@ Each solution includes:
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Profiles
 
 - 💻 GitHub: https://github.com/JarvisBuilder-Vasan
-- 🧩 LeetCode: https://leetcode.com/u/JarvisBuilder-Vasan/
+- 🧩 LeetCode: https://leetcode.com/u/SriniVasan_BS/
 
 ---
 
@@ -72,10 +71,12 @@ Each solution includes:
 
 ---
 
-## 📌 Notes
+## 📌 About This Repository
 
-This repository represents my learning journey on LeetCode. I upload my accepted solutions as I continue improving my coding skills. Earlier solutions may use straightforward approaches, while newer solutions reflect the concepts and optimizations I learn over time.
+This repository documents my LeetCode journey. Every accepted solution is uploaded as I continue learning and improving my coding skills.
+
+My goal is to build strong problem-solving abilities by practicing consistently and understanding different approaches to algorithmic problems.
 
 ---
 
-⭐ **Thank you for visiting my repository!**
+⭐ Thank you for visiting my repository!
